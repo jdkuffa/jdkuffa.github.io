@@ -4,7 +4,7 @@ This is where you can find my portfolio. Keep in mind, this is a work in progres
 
 ## URL
 
-[jdkuffa.github.io](https://jdkuffa.github.io) 
+[ggiek.github.io](https://ggiek.github.io) 
 
 ## Author
 Gigi Kuffa
